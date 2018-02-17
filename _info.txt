@@ -1,0 +1,3 @@
+*The Console Timer*
+
+Successful build was made by Visual Studio 2010 Ultimate!
